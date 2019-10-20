@@ -286,12 +286,12 @@ but7=Button(panelFrame,text = 'size',command=cc.Shaib)
 but7.place(x=370,y=10,width=60,height=30)
 
 but8=Button(panelFrame,text = 'Clear',command=cc.Clear)
-but8.place(x=430,y=10,width=60,height=30)
+but8.place(x=130,y=40,width=60,height=30)
 
-but9=Button(panelFrame,text = 'Reference',command=cc.Spravk)
+but9=Button(panelFrame,text = 'Buttons',command=cc.Spravk)
 but9.place(x=10,y=40,width=60,height=30)
 
-but10=Button(panelFrame,text = 'Reference 2',command=cc.Spravk2)
+but10=Button(panelFrame,text = 'About',command=cc.Spravk2)
 but10.place(x=70,y=40,width=60,height=30)
 
 textbox=Text(panelFrame,width=50,heigh=3)
